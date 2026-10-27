@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ヨシオカ｜建設業</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <h1>ヨシオカ</h1>
+    <p>山口県宇部市の建設業</p>
+  </header>
+
+  <main>
+    <section id="about">
+      <h2>事業概要</h2>
+      <p>ヨシオカは、地域密着で○○工事を行っています。</p>
+    </section>
+
+    <section id="services">
+      <h2>対応工事内容</h2>
+      <ul>
+        <li>外構工事</li>
+        <li>リフォーム工事</li>
+        <li>○○工事</li>
+      </ul>
+    </section>
+
+    <section id="works">
+      <h2>施工実績</h2>
+      <p>写真と説明をここに載せていきます。</p>
+    </section>
+
+    <section id="contact">
+      <h2>お問い合わせ</h2>
+      <p>電話：090-XXXX-XXXX</p>
+      <p>メール：info@example.com</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 ヨシオカ</p>
+  </footer>
+</body>
+</html>
+
+
